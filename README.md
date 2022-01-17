@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Stats](https://github-readme-stats.vercel.app/api?username=mmmherma&show_icons=false&title_color=ffffff&icon_color=79ff97&text_color=ffffff&bg_color=000000&include_all_commits=true)
+
 <!--
 **mmmherma/mmmherma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
