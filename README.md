@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mmmherma&show_icons=false&title_color=ffffff&icon_color=79ff97&text_color=ffffff&bg_color=000000&include_all_commits=true)
+![Statistics](https://github-readme-stats.vercel.app/api?username=mmmherma&show_icons=false&title_color=ffffff&icon_color=79ff97&text_color=ffffff&bg_color=000000)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmmherma&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mmmherma/mmmherma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
